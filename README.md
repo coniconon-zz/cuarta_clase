@@ -1,3 +1,4 @@
 # cuarta_clase
-Aprendiendo Bootstrap
+Aprendiendo Bootstrap.
+
 Vamos progresando.
